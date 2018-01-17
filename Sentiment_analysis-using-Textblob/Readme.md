@@ -5,6 +5,7 @@ Understanding and extracting feelings from data. I am using the tweepy library t
 
 # Dependencies:
 pip install tweepy 
+
 pip install textblob
 
 I am also printing out each tweet and saving each Tweet to a CSV file with an associated label. The label is either 'Positive' or 'Negative'.
