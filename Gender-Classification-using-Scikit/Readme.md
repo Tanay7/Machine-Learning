@@ -1,8 +1,8 @@
-Gender-Classification-using-Scikit
+# Gender-Classification-using-Scikit
 
 This is a code for gender classification. The code uses the scikit-learn machine learning library to train a decision tree on a small dataset of body metrics (height, width, and shoe size) labelled male or female. Then we can predict the gender of someone given a novel set of body metrics.
 
-Dependencies
+## Dependencies
 
 •	Scikit-learn (pip install -U scikit-learn ) •	numpy (pip install numpy) •	scipy (pip install scipy)
 
