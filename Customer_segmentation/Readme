@@ -1,10 +1,11 @@
 This folder contains only prototype code.Intricacies are not included as it is confidential.
 
-Description of the most interesting data analysis you’ve done:
-Prototyping the customer segmentation architecture at Capernaum, Galway
+## Description of the most interesting data analysis you’ve done:
+
+- Prototyping the customer segmentation architecture at Capernaum, Galway
 
 
-##Key findings : 
+## Key findings : 
 
 1. Loyalty (refer Loyalty graphs.pdf) (The pdfs need to be downloaded to be magnified)
 
@@ -27,5 +28,5 @@ Concurrently, the medium-low value users also tend to decrease from 60% to 5%
   and hence targets the users with negligible tendency to spend/purchase.
   However, you can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spikes up.
   
-Overall, I was responsible to create different personas for effective email marketing/push notifications at Capernaum.  
+Overall, I was responsible for creating different personas (algorithmically using K means clustering) for effective email marketing/push notifications at Capernaum.  
 
