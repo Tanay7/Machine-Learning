@@ -4,7 +4,7 @@ This folder contains only prototype code.Intricacies are not included as it is c
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ## Description
 
-- Prototyping the customer segmentation architecture at Capernaum, Galway
+- Customer segmentation 
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -31,5 +31,5 @@ Concurrently, the medium-low value users also tend to decrease from 60% to 5%
   and hence targets the users with negligible tendency to spend/purchase.
   However, you can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spikes up.
   
-Overall, I was responsible for creating different personas for effective email marketing/push notifications at Capernaum.  
+Overall, I was responsible for creating different personas via dendrograms for effective email marketing/push notifications at Capernaum.  
 
