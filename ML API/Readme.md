@@ -1,7 +1,7 @@
 # Deploying a Machine Learning Model as an API
 
 
-Aim:
+## Aim:
 To suggest a price to a customer adding a new listing (e.g. apartment for sale) based on the details of the property.
 
 Functions:
@@ -10,7 +10,7 @@ Functions:
 
 
 For example, 
-Using the Boston housing dataset and I created a JSON API.
+Using the Boston housing dataset, I created a JSON API.
 A REST query to the service with parameters is shown below.
 
 
