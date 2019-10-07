@@ -27,4 +27,4 @@ will return the predicted price as below:
 {
 “price”: 145000
 }
-Additional sources:
+
