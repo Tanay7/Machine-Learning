@@ -1,4 +1,4 @@
-    **Deploying a Machine Learning Model as an API**
+# Deploying a Machine Learning Model as an API
 
 
 Aim:
