@@ -1,4 +1,5 @@
-## Customer segmentation using Machine learning: End to End
+## Alison Customer segmentation using Machine learning: End to End 
+(Intricacies not included as it is confidential)
 
 
 ### Aim:
