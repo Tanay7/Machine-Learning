@@ -2,7 +2,7 @@
 (Intricacies not included as it is confidential)
 
 
-### Aim:
+### Objective:
  To understand customer behaviour of Alison userbase and categorize them based on demography and buying behaviour.
 
 ### Stages:
