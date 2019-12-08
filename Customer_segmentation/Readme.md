@@ -1,5 +1,5 @@
 ## Aim:
- To understand customer behaviour and categorize customers based on demography and buying behaviour.
+ To understand customer behaviour of Alison userbase and categorize customers based on demography and buying behaviour.
 
 
 
