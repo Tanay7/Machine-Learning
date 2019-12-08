@@ -1,3 +1,10 @@
+## Aim:
+ To understand customer behaviour and categorize customers based on demography and buying behaviour.
+
+
+
+
+
 This folder contains only prototype code.Intricacies are not included as it is confidential.
 
 
