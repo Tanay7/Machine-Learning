@@ -1,3 +1,6 @@
+# Customer segmentation using Machine learning: End to End
+
+
 ### Aim:
  To understand customer behaviour of Alison userbase and categorize customers based on demography and buying behaviour.
 
