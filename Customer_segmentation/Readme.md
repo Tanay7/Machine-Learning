@@ -8,9 +8,9 @@
 ### Stages:
 
 1. Business Understanding (Brainstorming with senior management /Deciding effective KPIs)
-2. Data Understanding
-3. Data Extraction
-4. Data Preparation 
+2. Data Understanding (DB tables to be considered )
+3. Data Extraction (Using SQL to extract transactional data/Google Analytics API for demographic data)
+4. Data Preparation (Advanced Excel: Pivots/VLOOKUPS)
 5. Modelling (Machine learning: Clustering)
 6. Evaluation (Involves tinkering with the algorithm to cater to specific business scenario: Alison in our case)
 7. Data visualization (To uncover insights)
