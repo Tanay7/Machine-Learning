@@ -2,7 +2,7 @@
  To understand customer behaviour of Alison userbase and categorize customers based on demography and buying behaviour.
 
 
-![Image of Yaktocat](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
 
 
 This folder contains only prototype code.Intricacies are not included as it is confidential.
