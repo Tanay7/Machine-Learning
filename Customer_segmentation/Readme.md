@@ -1,4 +1,4 @@
-## Aim:
+### Aim:
  To understand customer behaviour of Alison userbase and categorize customers based on demography and buying behaviour.
 
 
