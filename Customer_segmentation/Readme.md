@@ -7,7 +7,7 @@
 
 ### Stages:
 
-1. </b>Business Understanding (Brainstorming with senior management /Deciding effective KPIs)
+1. Business Understanding (Brainstorming with senior management /Deciding effective KPIs)
 2. Data Understanding (DB tables to be considered )
 3. Data Extraction (Using SQL to extract transactional data/Google Analytics API for demographic data)
 4. Data Preparation (Google sheets/Advanced Excel: Pivots/VLOOKUPS)
