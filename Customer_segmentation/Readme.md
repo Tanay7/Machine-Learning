@@ -2,7 +2,19 @@
 
 
 ### Aim:
- To understand customer behaviour of Alison userbase and categorize customers based on demography and buying behaviour.
+ To understand customer behaviour of Alison userbase and categorize them based on demography and buying behaviour.
+
+## Stages:
+
+	1. Business Understanding (Brainstorming with senior management /Deciding effective KPIs)
+	2. Data Understanding
+	3. Data Extraction
+	4. Data Preparation 
+	5. Modelling (Machine learning: Clustering)
+	6. Evaluation (Involves tinkering with the algorithm to cater to specific business scenario: Alison in our case)
+	7. Data visualization (To uncover insights)
+	8. Deployment (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing)
+
 
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
