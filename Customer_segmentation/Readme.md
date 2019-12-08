@@ -4,7 +4,7 @@
 ### Aim:
  To understand customer behaviour of Alison userbase and categorize them based on demography and buying behaviour.
 
-## Stages:
+### Stages:
 
 1. Business Understanding (Brainstorming with senior management /Deciding effective KPIs)
 2. Data Understanding
