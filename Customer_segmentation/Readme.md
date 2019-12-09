@@ -96,7 +96,7 @@ Specific filtering
 4. **Visualization:**
 Python Clustering Screenshot:
 
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/5a.png)
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/5a.PNG)
 
 
 **Clustered User Ids:**
