@@ -46,7 +46,7 @@ Concurrently, the medium-low value users also tend to decrease from 60% to 5%
 Overall, I was responsible for creating different personas via dendrograms for effective email marketing/push notifications at Capernaum.  
 
 
-## Problems Encountered during the journey
+## Problems Encountered during my journey
 
 	
 ### Problem 1: 
