@@ -108,19 +108,21 @@ Overall, I was responsible for creating different personas via dendrograms for e
 	
 ### Problem 1: 
 Difficulties in scoping the project during the initial stages. 
-eg Changes in business expectations 
+eg Changes in business expectations, fickling in the selection of KPI's 
 
 **Mitigation measure:** Tried to adapt as the problem evolved.
 Took several iterations of modelling, trial and error to finalise the methodology.
 Nevertheless it was exciting to be on my toes.
 
 
+
 ### Problem 2: 
-Simply throwing a standard Machine learning algo at a business problem is not enough. 
-eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn very much different than who made '>2-3' purchases. A standard machine learning algo cannot take this into account.
+Simply throwing a standard Machine learning algo at a particular business problem is not enough.Each business scenario is different.
+eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn way different than the ones who made '>2-3' purchases. A standard machine learning algo cannot take this into account.
 
 **Mitigation measure:**
 Tinkering and filtering was carried out with the data at varying levels (Led to changes in scoping of the project at regular intervals)
+
 
 
 ### Problem 3:
@@ -133,10 +135,14 @@ Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading 
 
 **Mitigation measure:** Extensive automation in Google cloud during the middle stages of the project.
 
+
+
 ### Problem 5:
 Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytical functions (LEAD/LAG) could not be used out of the box.
 
 **Mitigation measure:** Wrote custom analytical functions from scratch.
+
+
 
 ### Problem 6:
 Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results: eg 2-3 hour wait period 
