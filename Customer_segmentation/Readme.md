@@ -58,6 +58,9 @@ Eg: **Loyalty**
  
 Each of the above segments was broken down into several clusters and further into micro clusters if required (to attain more visibility/insights)
 
+
+
+
 2. **Data Extraction**
 Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
 
@@ -65,7 +68,9 @@ Total KPIs selected: 15
 
 Dataset: Several 100 GB
 	
-	
+
+
+
 3. **Modelling**
 I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.
 Specific filtering 
