@@ -12,7 +12,7 @@
 3. **Data Extraction** (SQL for transactional data/Google Analytics API for demographic data)
 4. **Data Preparation** (Google sheets/Advanced Excel: Pivots/VLOOKUPS)
 5. **Modelling** (Machine learning)
-6. **Evaluation** (Tinkering the algorithm according to specific business (Alison) scenario)
+6. **Evaluation** (Fine Tuning/Tinkering the algorithm according to specific business (Alison) scenario)
 7. **Data visualization/Presentation** (To uncover insights)
 8. **Deployment** (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing)
 
