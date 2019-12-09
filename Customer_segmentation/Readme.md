@@ -1,4 +1,4 @@
-## Alison Customer segmentation using Machine learning: End to End Pipeline
+## Alison Customer behavioural segmentation using Machine learning: End to End Pipeline
 (Intricacies not included as it is confidential)
 
 
