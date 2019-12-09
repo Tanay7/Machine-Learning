@@ -93,6 +93,8 @@ Frequent MYSQL database memory table crash/lag which caused slow query execution
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
 
 
-Preliminary code:
+Preliminary code link:
 
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
+[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
+
+
