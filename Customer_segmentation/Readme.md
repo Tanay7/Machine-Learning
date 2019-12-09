@@ -64,8 +64,6 @@ Each of the above segments was broken down into several clusters and further int
 
 
 
-
-
 2. **Data Extraction**
 Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
 
@@ -96,9 +94,9 @@ Specific filtering
 
 
 4. **Visualization:**
-Tableau Screenshot:
+Python Clustering Screenshot:
 
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/1a.png)
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/5a.png)
 
 
 **Clustered User Ids:**
