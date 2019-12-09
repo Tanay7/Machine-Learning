@@ -39,8 +39,11 @@ What are the signals of a
 
 We first decided the macro segments as mentioned below
 a. **Loyalty**
+
 b. **Engagement**
+
 c. **Interest**
+
 d. **Value**
 
 
