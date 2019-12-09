@@ -101,7 +101,7 @@ Tableau Screenshot:
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/1a.png)
 
 
-Clustered User Ids:
+**Clustered User Ids:**
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/2a.png)
 
