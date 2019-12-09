@@ -5,6 +5,15 @@
 ### Objective:
  To understand customer behaviour of Alison user base (13 million) and categorize them based on demography and buying behaviour.
 
+### Business questions 
+
+What are the signals of a 
+**1. Useful transactional user? **
+**2. Unusable transactional user? **
+**3. Engaged user?**
+**4. Multi-course user?**
+**5. Graduate user?**
+
 ### Stages:
 
 1. **Business Understanding** (Brainstorming with senior management /Deciding effective KPIs)
