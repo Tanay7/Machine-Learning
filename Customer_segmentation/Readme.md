@@ -43,6 +43,7 @@ b. **Engagement**
 c. **Interest**
 d. **Value**
 
+
 Brainstorming and selecting suitable/effective KPIs (base/derived) under each segment was carried out.
 
 Eg: **Segment a: Loyalty**
