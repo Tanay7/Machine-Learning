@@ -153,7 +153,8 @@ Tinkering and filtering was carried out with the data at varying levels (Led to 
 
 
 ### Problem 3:
-**Frequent Google sheet crash:** eg Cannot paste 10 million cells in one sheet.
+**Frequent Google sheet crash:**\ 
+eg Cannot paste 10 million cells in one sheet.
 
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
