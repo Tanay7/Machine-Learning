@@ -81,4 +81,4 @@ Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytic
 ## Problem 5:
 Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results: eg 2-3 hour wait period 
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis
-
+ 
