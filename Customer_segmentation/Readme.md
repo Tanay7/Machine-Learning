@@ -38,6 +38,7 @@ What are the signals of a
 1. **Determination of Macro segments** 
 
 We first decided the macro segments as mentioned below
+
 a. **Loyalty**
 
 b. **Engagement**
