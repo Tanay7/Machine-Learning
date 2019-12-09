@@ -8,11 +8,11 @@
 ### Business questions 
 
 What are the signals of a 
-**1. Useful transactional user? **
-**2. Unusable transactional user? **
-**3. Engaged user?**
-**4. Multi-course user?**
-**5. Graduate user?**
+**###1. Useful transactional user? **
+**###2. Unusable transactional user? **
+**###3. Engaged user?**
+**###4. Multi-course user?**
+**###5. Graduate user?**
 
 ### Stages:
 
