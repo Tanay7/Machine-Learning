@@ -114,8 +114,6 @@ Clustered User Ids:
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/4a.png)
 
-As you can see from the pdf, the users with no activity on the site increase from 26% to 98% in the next month (April).
-Concurrently, the medium-low value users also tend to decrease from 60% to 5% 
 
 2. **Engagement** (refer Engagement graphs.pdf)
 
@@ -131,7 +129,7 @@ As you can see from the pdf, the users with no Value (no propensity to spend) on
   
   
 ## Outcome: 
-You can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spikes up.
+You can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spike up.
 
 
 ## Problems Encountered during my journey
