@@ -14,6 +14,11 @@ What are the signals of a
 4. **Multi-course user?**
 5. **Graduate user?**
 
+### Stakeholders
+1. **CTO
+2. **Manager
+3. **Marketing team
+
 ### Stages:
 
 1. **Business Understanding** (Brainstorming with senior management /Deciding effective KPIs)
