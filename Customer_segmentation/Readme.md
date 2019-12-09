@@ -171,7 +171,7 @@ Tinkering and filtering was carried out with the data at varying levels (Led to 
 
 
 ### Problem 6:
-**Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**
+**Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**\
 eg 2-3 hour wait period 
 
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
