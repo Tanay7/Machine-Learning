@@ -91,4 +91,8 @@ Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytic
 Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results: eg 2-3 hour wait period 
 
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
- 
+
+
+Preliminary code:
+
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
