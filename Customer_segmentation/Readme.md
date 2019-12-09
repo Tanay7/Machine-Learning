@@ -17,20 +17,9 @@
 8. Deployment (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing)
 
 
-
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
 
 
-This folder contains only prototype code.Intricacies are not included as it is confidential.
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-## Description
-
-- Customer segmentation 
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ## Key findings : 
 
 1. Loyalty (refer Loyalty graphs.pdf) (The pdfs need to be downloaded to be magnified)
