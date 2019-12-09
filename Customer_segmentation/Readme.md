@@ -108,7 +108,7 @@ Overall, I was responsible for creating different personas via dendrograms for e
 	
 ### Problem 1: 
 Difficulties in scoping the project during the initial stages. 
-eg Changes in business expectations, fickling in the selection of KPI's 
+eg Changes in business expectations, fickleness in the selection of KPI's 
 
 **Mitigation measure:** Tried to adapt as the problem evolved.
 Took several iterations of modelling, trial and error to finalise the methodology.
