@@ -133,7 +133,7 @@ You can see that due to the inclusion of new courses and the arduous efforts by 
 ## Problems Encountered during my journey
 	
 ### Problem 1: 
-Difficulties in scoping the project during the initial stages. 
+**Difficulties in scoping the project during the initial stages.**
 eg Changes in business expectations, fickleness in the selection of KPI's 
 
 **Mitigation measure:** Tried to adapt as the problem evolved.
@@ -143,7 +143,7 @@ Nevertheless it was exciting to be on my toes.
 
 
 ### Problem 2: 
-Simply throwing a standard Machine learning algo at a particular business problem is not enough.Each business scenario is different.
+**Simply throwing a standard Machine learning algo at a particular business problem is not enough.Each business scenario is different.**
 eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn way different than the ones who made '>2-3' purchases. A standard machine learning algo cannot take this into account.
 
 **Mitigation measure:**
@@ -152,26 +152,27 @@ Tinkering and filtering was carried out with the data at varying levels (Led to 
 
 
 ### Problem 3:
-Frequent Google sheet crash: eg Cannot paste 10 million cells in one sheet.
+**Frequent Google sheet crash: eg Cannot paste 10 million cells in one sheet.**
 
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
 ### Problem 4:
-Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.
+**Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.**
 
 **Mitigation measure:** Extensive automation in Google cloud during the middle stages of the project.
 
 
 
 ### Problem 5:
-Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytical functions (LEAD/LAG) could not be used out of the box.
+**Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytical functions (LEAD/LAG) could not be used out of the box.**
 
 **Mitigation measure:** Wrote custom analytical functions from scratch.
 
 
 
 ### Problem 6:
-Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results: eg 2-3 hour wait period 
+**Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**
+eg 2-3 hour wait period 
 
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
 
