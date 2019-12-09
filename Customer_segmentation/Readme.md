@@ -153,13 +153,13 @@ Tinkering and filtering was carried out with the data at varying levels (Led to 
 
 
 ### Problem 3:
-**Frequent Google sheet crash:**\ 
+**Frequent Google sheet crash:**\
 eg Cannot paste 10 million cells in one sheet.
 
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
 ### Problem 4:
-**Extensive manual work involved:**\ 
+**Extensive manual work involved:**\
 eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.
 
 **Mitigation measure:**\
@@ -168,7 +168,7 @@ Extensive automation in Google cloud during the middle stages of the project.
 
 
 ### Problem 5:
-**Limitations of Alison MYSQL database version (Ver 5.0) on AWS**\ 
+**Limitations of Alison MYSQL database version (Ver 5.0) on AWS**\
 eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 
 **Mitigation measure:**\
