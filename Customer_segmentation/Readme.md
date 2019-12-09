@@ -136,7 +136,7 @@ Frequent Google sheet crash: eg Cannot paste 10 million cells in one sheet.
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
 ### Problem 4:
-Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading times. 
+Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.
 
 **Mitigation measure:** Extensive automation in Google cloud during the middle stages of the project.
 
