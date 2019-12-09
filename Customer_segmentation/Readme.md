@@ -16,9 +16,10 @@ What are the signals of a
 
 ### Stakeholders
 
-1. **CTO**
-2. **Manager**
-3. **Marketing team**
+1. **CEO**
+2. **CTO**
+3. **Manager**
+4. **Marketing team**
 
 ### Stages:
 
