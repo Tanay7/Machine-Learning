@@ -3,7 +3,7 @@
 
 
 ### Objective:
- To understand customer behaviour of Capernaum(Alison) user base (13 million approx.) and categorize them based on demography and buying behaviour to uncover insights and facilitate capture/retention.
+ To understand customer behaviour of Capernaum(Alison) user base (13 million approx.) and categorize them based on demography, buying behaviour to uncover insights, facilitate capture/retention and build Customer analytics record (data infrastructure).
 
 ### Business questions 
 
