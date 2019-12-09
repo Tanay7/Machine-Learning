@@ -35,6 +35,8 @@ What are the signals of a
 
 ### Approach:
 
+
+
 1. **Determination of Macro segments** 
 
 We first decided the macro segments as mentioned below
@@ -61,12 +63,19 @@ Each of the above segments was broken down into several clusters and further int
 
 
 
+
+
+
 2. **Data Extraction**
 Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
 
 Total KPIs selected: 15
 
 Dataset: Several 100 GB
+
+
+
+
 	
 
 
@@ -86,7 +95,7 @@ Specific filtering
 
 
 
-4. Visualization:
+4. **Visualization:**
 Tableau Screenshot:
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/1a.png)
