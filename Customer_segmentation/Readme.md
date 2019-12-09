@@ -50,9 +50,9 @@ d. **Value**
 
 Brainstorming and selecting suitable/effective KPIs (base/derived) under each segment was carried out.
 
-Eg: **Segment a: Loyalty**
+Eg: **Loyalty**
 
-**KPI:** 
+**KPI selected:** 
 1. Count of returns
 2. Average time to return to player pages
  
