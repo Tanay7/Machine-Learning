@@ -33,6 +33,48 @@ What are the signals of a
 8. **Deployment** (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing to facilitate capture and retention.)
 
 
+### Approach:
+
+1. **Determination of Macro segments** 
+
+We first decided the macro segments as mentioned below
+a. **Loyalty**
+b. **Engagement**
+c. **Interest**
+d. **Value**
+
+Brainstorming and selecting suitable/effective KPIs (base/derived) under each segment was carried out.
+
+Eg: **Segment a: Loyalty**
+
+**KPI:** 
+1. Count of returns
+2. Average time to return to player pages
+ 
+Each of the above segments was broken down into several clusters and further into micro clusters if required (to attain more visibility/insights)
+
+2. **Data Extraction**
+Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
+Total KPIs selected: 15
+Dataset: Several 100 GB
+	
+	
+3. **Modelling**
+I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.
+Specific filtering 
+	
+	
+	Algo in brief:
+	
+	
+	
+Preliminary code link:
+
+[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
+
+
+
+
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
 
 
@@ -63,34 +105,45 @@ Overall, I was responsible for creating different personas via dendrograms for e
 
 
 ## Problems Encountered during my journey
-
 	
 ### Problem 1: 
-Difficulties in scoping the project during the initial stages eg Changes in business expectations 
+Difficulties in scoping the project during the initial stages. 
+eg Changes in business expectations 
 
 **Mitigation measure:** Tried to adapt as the problem evolved.
 Took several iterations of modelling, trial and error to finalise the methodology.
 Nevertheless it was exciting to be on my toes.
-	
-### Problem 2:
+
+
+### Problem 2: 
+Simply throwing a standard Machine learning algo at a business problem is not enough. 
+eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn very much different than who made '>2-3' purchases. A standard machine learning algo cannot take this into account.
+
+**Mitigation measure:**
+Tinkering and filtering was carried out with the data at varying levels (Led to changes in scoping of the project at regular intervals)
+
+
+### Problem 3:
 Frequent Google sheet crash: eg Cannot paste 10 million cells in one sheet.
 
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
-### Problem 3:
+### Problem 4:
 Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading times. 
 
 **Mitigation measure:** Extensive automation in Google cloud during the middle stages of the project.
 
-### Problem 4:
+### Problem 5:
 Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytical functions (LEAD/LAG) could not be used out of the box.
 
 **Mitigation measure:** Wrote custom analytical functions from scratch.
 
-### Problem 5:
+### Problem 6:
 Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results: eg 2-3 hour wait period 
 
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
+
+
 
 
 Preliminary code link:
