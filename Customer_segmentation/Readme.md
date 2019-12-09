@@ -3,7 +3,7 @@
 
 
 ### Objective:
- To understand customer behaviour of Alison user base (13 million) and categorize them based on demography and buying behaviour.
+ To understand customer behaviour of Alison user base (13 million) and categorize them based on demography and buying behaviour to facilitate capture and retention.
 
 ### Business questions 
 
