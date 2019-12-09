@@ -49,24 +49,24 @@ Overall, I was responsible for creating different personas via dendrograms for e
 ## Problems Encountered during the journey
 
 	
-#### Problem 1: 
+### Problem 1: 
 Difficulties in scoping the project during the initial stages eg Changes in business expectations 
 
 **Mitigation measure:** Tried to adapt as the problem evolved.
 Took several iterations of modelling, trial and error to finalise the methodology.
 Nevertheless it was exciting to be on my toes.
 	
-#### Problem 2:
+### Problem 2:
 Frequent Google sheet crash: eg Cannot paste 10 million cells in one sheet.
 
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
-#### Problem 3:
+### Problem 3:
 Extensive manual work involved : eg: Copy/pasting millions of rows/slow loading times. 
 
 **Mitigation measure:** Extensive automation in Google cloud during the middle stages of the project.
 
-#### Problem 4:
+### Problem 4:
 Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytical functions (LEAD/LAG) could not be used out of the box.
 
 **Mitigation measure:** Wrote custom analytical functions from scratch.
