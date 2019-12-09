@@ -76,44 +76,53 @@ I used k-means clustering to create and derive the optimal number of clusters an
 Specific filtering 
 	
 	
-	Algo in brief:
+**Algorithm Overview**
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
+
 	
-	
-	
-Preliminary code link:
+**Preliminary code link:**
 
 [K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
 
 
 
+4. Visualization:
+Tableau Screenshot:
 
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/1a.png)
 
 
-## Key findings : 
+Clustered User Ids:
 
-1. Loyalty (refer Loyalty graphs.pdf) (The pdfs need to be downloaded to be magnified)
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/2a.png)
 
-  As you can see from the pdf, the users with no activity on the site increase from 26% to 98% in the next month (April).
+
+
+## Insights: 
+
+1. **Loyalty** (refer Loyalty graphs.pdf)
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/3a.png)
+
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/4a.png)
+
+As you can see from the pdf, the users with no activity on the site increase from 26% to 98% in the next month (April).
 Concurrently, the medium-low value users also tend to decrease from 60% to 5% 
 
-2. Engagement (refer Engagement graphs.pdf)
+2. **Engagement** (refer Engagement graphs.pdf)
 
-  As you can see from the pdf, the users with no engagement on the site increase from 27% to 95% in the next month (April) due to email marketing efforts by the team.
-  However, the completion rate seems to be falling drastically no matter what.
+As you can see from the pdf, the users with no engagement on the site increase from 27% to 95% in the next month (April) due to email marketing efforts by the team.However, the completion rate seems to be falling drastically no matter what.
   
-3. Interest (refer Interest graphs.pdf)
+3. **Interest** (refer Interest graphs.pdf)
 
-  As you can see from the pdf, the users with no Interest (in various courses) on the site increase from 5% to 95% in the next month (April).
-  The users with Narrow focus (No. of different courses enrolled) decreases from 55% to 5%
+As you can see from the pdf, the users with no Interest (in various courses) on the site increase from 5% to 95% in the next month (April).The users with Narrow focus (No. of different courses enrolled) decreases from 55% to 5%
 
-4. Value (refer Value graphs.pdf)
+4. **Value** (refer Value graphs.pdf)
 
-  As you can see from the pdf, the users with no Value (no propensity to spend) on the site remains the same which is justifiable as Capernaum is dedicated to providing free education
-  and hence targets the users with negligible tendency to spend/purchase.
-  However, you can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spikes up.
+As you can see from the pdf, the users with no Value (no propensity to spend) on the site remains the same which is justifiable as Capernaum is dedicated to providing free education and hence targets the users with negligible tendency to spend/purchase.
   
-Overall, I was responsible for creating different personas via dendrograms for effective email marketing/push notifications at Capernaum.  
+  
+## Outcome: 
+You can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spikes up.
 
 
 ## Problems Encountered during my journey
@@ -160,14 +169,6 @@ Limitations of Alison MYSQL database version (Ver 5.0) on AWS eg : Some analytic
 Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results: eg 2-3 hour wait period 
 
 **Mitigation measure:** Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
-
-
-
-
-Preliminary code link:
-
-[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
-
 
 
 
