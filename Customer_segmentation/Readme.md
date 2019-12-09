@@ -60,7 +60,9 @@ Each of the above segments was broken down into several clusters and further int
 
 2. **Data Extraction**
 Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
+
 Total KPIs selected: 15
+
 Dataset: Several 100 GB
 	
 	
