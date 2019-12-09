@@ -29,7 +29,7 @@ What are the signals of a
 4. **Data Preparation** (Google sheets/Advanced Excel: Pivots/VLOOKUPS)
 5. **Modelling** (Machine learning)
 6. **Evaluation** (Fine Tuning/Tinkering the algorithm according to specific business (Alison) scenario)
-7. **Data visualization/Presentation** (To uncover insights)
+7. **Data visualization/Presentation** (To uncover insights/study marketing funnel metrics in detail)
 8. **Deployment** (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing to facilitate capture and retention.)
 
 
