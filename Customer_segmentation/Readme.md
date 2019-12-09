@@ -15,9 +15,10 @@ What are the signals of a
 5. **Graduate user?**
 
 ### Stakeholders
-1. **CTO
-2. **Manager
-3. **Marketing team
+
+1. **CTO**
+2. **Manager**
+3. **Marketing team**
 
 ### Stages:
 
