@@ -1,4 +1,4 @@
-## Customer behavioural segmentation at Capernaum Ltd using Machine learning: End to End Pipeline
+## Customer behavioural segmentation at Capernaum Ltd using Machine learning: End to End pipeline
 (Intricacies not included as it is confidential)
 
 
