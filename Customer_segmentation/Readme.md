@@ -69,7 +69,7 @@ Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
 
 Total KPIs selected: 15
 
-Dataset: Several 100 GB
+Dataset: 10s of GB
 
 
 
