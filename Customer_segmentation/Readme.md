@@ -103,7 +103,8 @@ Python Clustering Screenshot:
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/2a.png)
 
-
+**Dendrogram sample:**
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/6a.jpg)
 
 ## Insights: 
 
