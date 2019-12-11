@@ -82,10 +82,10 @@ Dataset: 10s of GB
 I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.
 Specific filtering 
 	
-	
+<!-- 	
 **Algorithm Overview**
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
-
+ --> 
 	
 **Preliminary code link:**
 
