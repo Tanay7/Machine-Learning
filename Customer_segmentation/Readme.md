@@ -26,7 +26,7 @@ What are the signals of a
 1. **Business Understanding** (Brainstorming with senior management /Deciding effective KPIs)
 2. **Data Understanding** (DB tables/ Google Analytics metrics)
 3. **Data Extraction** (SQL for transactional data/Google Analytics API for demographic data)
-4. **Data Preparation** (Google sheets/Advanced Excel: Pivots/VLOOKUPS)
+4. **Data Preparation/Feature Engineering** (Google sheets/Advanced Excel: Pivots/VLOOKUPS)
 5. **Modelling** (Machine learning)
 6. **Evaluation** (Fine Tuning/Tinkering the algorithm according to specific business (Alison) scenario)
 7. **Data visualization/Presentation** (To uncover insights/study marketing funnel metrics in detail)
