@@ -98,14 +98,14 @@ Python Clustering Screenshot:
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/5a.PNG)
 
-
+<!-- 
 **Clustered User Ids:**
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/2a.png)
 
 **Dendrogram sample:**
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/6a.jpg)
-
+ --> 
 ## Insights: 
 
 1. **Loyalty** (refer Loyalty graphs.pdf)
