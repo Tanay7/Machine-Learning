@@ -146,7 +146,7 @@ Nevertheless it was exciting to be on my toes.
 
 ### Problem 2: 
 **Simply throwing a standard Machine learning algo at a particular business problem is not enough. Each business scenario is different.**\
-eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn way different than the ones who made '>2-3' purchases. A standard machine learning algo cannot take this into account.
+eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn way different than the ones who made '>2-3' purchases. A standard machine learning algo (Clustering) cannot take this into account.
 
 **Mitigation measure:**\
 Tinkering and filtering was carried out with the data at varying levels (Led to changes in scoping of the project at regular intervals)
