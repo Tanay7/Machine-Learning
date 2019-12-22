@@ -5,16 +5,16 @@
 ### Objective:
  To understand customer behaviour of Capernaum (User base: 13 million approx.) and categorize them based on demography, buying behaviour to uncover insights, facilitate capture/retention and build Customer analytics record (data infrastructure) from scratch.
 
-### Business questions 
+### Business questions: 
 
 What are the signals of a 
-1. **Useful transactional user?**
-2. **Unusable transactional user?**
-3. **Engaged user?**
-4. **Multi-course user?**
-5. **Graduate user?**
+1. **Useful transactional user**
+2. **Unusable transactional user**
+3. **Engaged user**
+4. **Multi-course user**
+5. **Graduate user**
 
-### Stakeholders
+### Stakeholders:
 
 1. **CEO**
 2. **CTO**
@@ -131,7 +131,7 @@ As you can see from the pdf, the users with no Value (no propensity to spend) on
 You can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spike up.
 
 
-## Problems Encountered during my journey
+## Challenges encountered during my journey
 	
 ### Problem 1:
 **Difficulties in scoping the project during the initial stages.**\
