@@ -185,4 +185,14 @@ eg 2-3 hour wait period
 Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
 
 
+### Problem 7:
+**Market dynamics: Instability of segments over time**
+eg: Structural change which leads to segment creep and membership migration as the Users move from one segment to another.
+
+**Mitigation measure:**\
+Carried out automation (results fetch from SQL Db,Google sheets) to drastically reduce manual labour and time when Daily/ weekly/monthly/6 monthly segmentations were carried out.
+
+
+
+
 
