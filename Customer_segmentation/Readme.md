@@ -1,10 +1,27 @@
 ## Customer behavioural segmentation at Capernaum Ltd using Machine learning: End to End pipeline
 (Intricacies not included as it is confidential)
 
-\n
-\n
-\n
-\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Objective:
  To understand customer behaviour of Capernaum (User base: 13 million approx.) and categorize them based on **demography**, **buying behaviour to unearth critical insights**, facilitate **capture/retention** and build **Customer analytics record** (data infrastructure) from scratch.
