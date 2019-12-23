@@ -98,6 +98,9 @@ Python Clustering Screenshot:
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/5a.PNG)
 
+Cluster/Class Description:
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/7a.PNG)
+
 <!-- 
 **Clustered User Ids:**
 
