@@ -100,10 +100,9 @@ Python Clustering Screenshot:
 
 Cluster/Class Description:
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/7a.PNG)
-
+<!-- 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/8a.PNG)
-
-Snapshot of Customer Analytics Record:
+ --> 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/9a.PNG)
 
 <!-- 
