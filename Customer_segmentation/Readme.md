@@ -156,15 +156,20 @@ eg: In our business, there is a huge difference between users who made '0' produ
 **Mitigation measure:**\
 Tinkering and filtering was carried out with the data at varying levels (Led to changes in scoping of the project at regular intervals)
 
-
-
 ### Problem 3:
+**Market dynamics: Instability of segments over time**
+eg: Structural change which leads to segment creep and membership migration as the Users move from one segment to another.
+
+**Mitigation measure:**\
+Carried out automation (results fetch from SQL Db,Google sheets) to drastically reduce manual labour and time when Daily/ weekly/monthly/6 monthly segmentations were carried out.
+
+### Problem 4:
 **Frequent Google sheet crash:**\
 eg Cannot paste 10 million cells in one sheet.
 
 **Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
-### Problem 4:
+### Problem 5:
 **Extensive manual work involved:**\
 eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.
 
@@ -173,7 +178,7 @@ Extensive automation in Google cloud during the middle stages of the project.
 
 
 
-### Problem 5:
+### Problem 6:
 **Limitations of Alison MYSQL database version (Ver 5.0) on AWS**\
 eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 
@@ -182,7 +187,7 @@ Wrote custom analytical functions from scratch.
 
 
 
-### Problem 6:
+### Problem 7:
 **Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**\
 eg 2-3 hour wait period 
 
@@ -190,12 +195,7 @@ eg 2-3 hour wait period
 Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
 
 
-### Problem 7:
-**Market dynamics: Instability of segments over time**
-eg: Structural change which leads to segment creep and membership migration as the Users move from one segment to another.
 
-**Mitigation measure:**\
-Carried out automation (results fetch from SQL Db,Google sheets) to drastically reduce manual labour and time when Daily/ weekly/monthly/6 monthly segmentations were carried out.
 
 
 
