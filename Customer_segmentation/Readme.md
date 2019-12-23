@@ -3,7 +3,7 @@
 
 
 ### Objective:
- To understand customer behaviour of Capernaum (User base: 13 million approx.) and categorize them based on demography, buying behaviour to uncover insights, facilitate capture/retention and build Customer analytics record (data infrastructure) from scratch.
+ To understand customer behaviour of Capernaum (User base: 13 million approx.) and categorize them based on demography, buying behaviour to unearth critical insights, facilitate capture/retention and build Customer analytics record (data infrastructure) from scratch.
 
 ### Business questions: 
 
