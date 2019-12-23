@@ -89,7 +89,7 @@ Specific filtering
 	
 **Preliminary code link:**
 
-[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Kmeans%20Clustering%20code%20(draft).ipynb)
+[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/K%20Means%20code.ipynb)
 
 
 
