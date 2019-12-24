@@ -39,7 +39,7 @@ What are the signals of a
 2. **Quantifiable measurements/ data points used to gauge Capernaum's performance relative to that goal**
 
 
-**eg:** 
+**eg:**
 **Goal 1:** Site traffic
 **Indicator**---> Loyalty
 **Quantifiable measurements/data points:** Count of returns/ Avg time taken to return to player pages
