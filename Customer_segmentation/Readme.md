@@ -34,6 +34,29 @@ What are the signals of a
 8. **Deployment** (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing to facilitate capture and retention.)
 
 
+### KPI selection process:
+1. **Some Marketing goal** 
+2. **Quantifiable measurements/ data points used to gauge Capernaum's performance relative to that goal**
+
+
+**eg:** 
+**Goal 1:** Site traffic
+**Indicator**---> Loyalty
+**Quantifiable measurements/data points:** Count of returns/ Avg time taken to return to player pages
+
+**Goal 2:** Time on site
+**Indicator**---> Engagement
+**Quantifiable measurements/data points:** Completion rate
+
+**Goal 3:** Propensity to spend/Revenue per visitor(RPV)/Average order size
+**Indicator**---> Value
+**Quantifiable measurements/data points:** Cart abandonments/Purchases
+
+**Goal 4:** Product affinity
+**Indicator**---> Interest
+**Quantifiable measurements/data points:** Course enrols (product preference)
+
+
 ### Approach:
 
 
