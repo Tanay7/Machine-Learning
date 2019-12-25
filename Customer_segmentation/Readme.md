@@ -221,7 +221,11 @@ eg 2-3 hour wait period
 Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
 
 
+## Impact:  
 
+1. Implemented entirely using Open source tools hence negligible expenditure.  
+2. Offered Capernaum Ltd (Alison) the ability to leverage data to discover consumers’ intent.  
+3. Personalized/timely marketing campaigns for Optimal customer experience now possible.     
 
 
 
