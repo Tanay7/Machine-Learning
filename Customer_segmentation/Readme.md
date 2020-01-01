@@ -42,19 +42,19 @@ What are the signals of a
 **eg:**  
 **Goal 1:** Increase Site traffic  
 **Indicator**---> Loyalty  
-**Quantifiable measurements/data points:** Count of returns/ Avg time taken to return to player pages
+**Quantifiable measurement/data point:** Count of returns/ Avg time taken to return to player pages
 
 **Goal 2:** Increase Time on site  
 **Indicator**---> Engagement  
-**Quantifiable measurements/data points:** Completion rate
+**Quantifiable measurement/data point:** Completion rate
 
 **Goal 3:** Increase Propensity to spend/Revenue per visitor(RPV)/Average order size  
 **Indicator**---> Value  
-**Quantifiable measurements/data points:** Cart abandonments/Purchases
+**Quantifiable measurement/data point:** Cart abandonments/Purchases
 
 **Goal 4:** Diversify Product affinity as much as possible  
 **Indicator**---> Interest  
-**Quantifiable measurements/data points:** Course enrols (product preference)
+**Quantifiable measurement/data point:** Course enrols (product preference)
 
 
 ### Approach:
