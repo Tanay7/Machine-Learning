@@ -52,7 +52,7 @@ What are the signals of a
 **Indicator**---> Value  
 **Quantifiable measurements/data points:** Cart abandonments/Purchases
 
-**Goal 4:** Diversify Product affinity as much as possible 
+**Goal 4:** Diversify Product affinity as much as possible  
 **Indicator**---> Interest  
 **Quantifiable measurements/data points:** Course enrols (product preference)
 
