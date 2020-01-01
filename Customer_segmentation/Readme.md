@@ -96,12 +96,6 @@ Total KPIs selected: 15
 Dataset: 10s of GB
 
 
-
-
-	
-
-
-
 3. **Modelling**
 I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.
 Specific filtering 
@@ -165,10 +159,10 @@ You can see that due to the inclusion of new courses and the arduous efforts by 
 ## Challenges encountered during my journey
 	
 ### Problem 1:
-**Difficulties in scoping the project during the initial stages.**\
+**Difficulties in scoping the project during the initial stages.**\  
 eg Changes in business expectations, fickleness in the selection of KPI's 
 
-**Mitigation measure:**\
+**Mitigation measure:**\  
 Tried to adapt as the problem evolved.\
 Took several iterations of modelling, trial and error to finalise the methodology.\
 Nevertheless it was exciting to be on my toes.
@@ -176,7 +170,7 @@ Nevertheless it was exciting to be on my toes.
 
 
 ### Problem 2: 
-**Simply throwing a standard Machine learning algo at a particular business problem is not enough. Each business scenario is different.**\
+**Simply throwing a standard Machine learning algo at a particular business problem is not enough.  Each business scenario is different.**\
 eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn way different than the ones who made '>2-3' purchases. A standard machine learning algo (Clustering) cannot take this into account.
 
 **Mitigation measure:**\
@@ -200,7 +194,7 @@ eg Cannot paste 10 million cells in one sheet.
 eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.
 
 **Mitigation measure:**\
-Extensive automation in Google cloud during the middle stages of the project.
+Extensive automation in Google cloud during the intermediate stages of the project.
 
 
 
@@ -223,9 +217,9 @@ Broke down the complex query into several simple ones and later collated into a 
 
 ## Impact:  
 
-1. Implemented entirely using Open source tools hence negligible expenditure.  
+1. Implemented entirely using Open source tools hence negligible implementation cost.  
 2. Offered Capernaum Ltd (Alison) the ability to leverage data to discover consumers’ intent.  
-3. Personalized/timely marketing campaigns for Optimal customer experience now possible.     
+3. Personalized/timely marketing campaigns for optimal customer experience now possible.     
 
 
 
