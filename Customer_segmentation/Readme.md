@@ -46,7 +46,7 @@ What are the signals of a
 
 **Goal 2:** Increase Time on site  
 **Indicator**---> Engagement  
-**Quantifiable measurement/data point:** Completion rate
+**Quantifiable measurement/data point:** Completion rate/Dwell Time
 
 **Goal 3:** Increase Propensity to spend/Revenue per visitor(RPV)/Average order size  
 **Indicator**---> Value  
