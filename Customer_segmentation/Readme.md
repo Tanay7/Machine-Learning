@@ -188,10 +188,7 @@ eg Changes in business expectations, fickleness in the selection of KPI's
 
 **Mitigation measure:**\
 Tried to adapt as the problem evolved.\
-Took several iterations of modelling, trial and error to finalise the methodology.\
-Nevertheless it was exciting to be on my toes.
-
-
+Took several iterations of modelling, trial and error to finalise the methodology.\  
 
 ### Problem 2: 
 **Simply throwing a standard Machine learning algo at a particular business problem is not enough.  Each business scenario is different.**\
