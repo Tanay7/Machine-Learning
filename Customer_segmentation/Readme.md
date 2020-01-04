@@ -5,9 +5,7 @@
 ### Objective:
  To understand customer behaviour of Capernaum Ltd (User base: 13 million approx.) and categorize them based on **demography**, **buying behaviour to unearth critical insights**, facilitate **capture/retention** and build data infrastructure(**Customer analytics record/Customer Data Platform**) from scratch.
 
-### Project Implementers:
--  **Me**
--  **Manager**
+
 
 ### Stakeholders:
 
@@ -16,14 +14,18 @@
 3. **Manager**
 4. **Marketing team**
 
+### Project Implementers:
+-  **Me**
+-  **Manager**
+
 ### Business questions: 
 
 What are the signals of a 
-1. **Useful transactional user**
-2. **Unusable transactional user**
-3. **Engaged user**
-4. **Multi-course user**
-5. **Graduate user**
+-  **Useful transactional user**
+-  **Unusable transactional user**
+-  **Engaged user**
+-  **Multi-course user**
+-  **Graduate user**
 
 
 ### Stages:
