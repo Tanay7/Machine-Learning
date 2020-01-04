@@ -5,6 +5,10 @@
 ### Objective:
  To understand customer behaviour of Capernaum Ltd (User base: 13 million approx.) and categorize them based on **demography**, **buying behaviour to unearth critical insights**, facilitate **capture/retention** and build data infrastructure(**Customer analytics record/Customer Data Platform**) from scratch.
 
+### Project Implementers:
+-  **Me**
+-  **Manager**
+
 ### Stakeholders:
 
 1. **CEO**
