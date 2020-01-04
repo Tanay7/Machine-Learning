@@ -103,18 +103,12 @@ Dataset: 10s of GB
 
 
 3. **Modelling**
-I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.
-Specific filtering 
+I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.  
 	
 <!-- 	
 **Algorithm Overview**
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/ggg.png)
  --> 
-	
-**Preliminary code link:**
-
-[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/K%20Means%20code.ipynb)
-
 
 
 4. **Visualization:**
@@ -137,6 +131,15 @@ Cluster/Class Description:
 **Dendrogram sample:**
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/6a.jpg)
  --> 
+ 
+ 	
+**Preliminary code link:**
+
+[K means](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/K%20Means%20code.ipynb)
+
+
+ 
+ 
 ## Insights: 
 
 
@@ -218,6 +221,7 @@ eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 
 **Mitigation measure:**\
 Wrote custom analytical functions from scratch.
+
 
 
 
