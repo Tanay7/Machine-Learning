@@ -169,10 +169,10 @@ You can see that due to the inclusion of new courses and the arduous efforts by 
 ## Challenges encountered during my journey
 	
 ### Problem 1:
-**Difficulties in scoping the project during the initial stages.**\  
+**Difficulties in scoping the project during the initial stages.**\
 eg Changes in business expectations, fickleness in the selection of KPI's 
 
-**Mitigation measure:**\  
+**Mitigation measure:**\
 Tried to adapt as the problem evolved.\
 Took several iterations of modelling, trial and error to finalise the methodology.\
 Nevertheless it was exciting to be on my toes.
