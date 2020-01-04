@@ -186,7 +186,7 @@ You can see that due to the inclusion of new courses and the arduous efforts by 
 **Difficulties in scoping the project during the initial stages.**\
 eg Changes in business expectations, fickleness in the selection of KPI's 
 
-**Mitigation measure:**\  
+**Mitigation measure:**\
 Tried to adapt as the problem evolved.\
 Took several iterations of modelling, trial and error to finalise the methodology.\  
 
