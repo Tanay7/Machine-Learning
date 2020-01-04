@@ -139,10 +139,10 @@ Cluster/Class Description:
  --> 
 ## Insights: 
 
-1. **Loyalty** (refer Loyalty graphs.pdf)
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/3a.png)
 
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/4a.png)
+1. **Value** (refer Value graphs.pdf)
+
+As you can see from the pdf, the users with no Value (no propensity to spend) on the site remains the same which is justifiable as Capernaum is dedicated to providing free education and hence targets the users with negligible tendency to spend/purchase.  
 
 
 2. **Engagement** (refer Engagement graphs.pdf)
@@ -153,10 +153,14 @@ As you can see from the pdf, the users with no engagement on the site increase f
 
 As you can see from the pdf, the users with no Interest (in various courses) on the site increase from 5% to 95% in the next month (April).The users with Narrow focus (No. of different courses enrolled) decreases from 55% to 5%
 
-4. **Value** (refer Value graphs.pdf)
+4.  **Loyalty** (refer Loyalty graphs.pdf)
+<!-- 
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/3a.png)
 
-As you can see from the pdf, the users with no Value (no propensity to spend) on the site remains the same which is justifiable as Capernaum is dedicated to providing free education and hence targets the users with negligible tendency to spend/purchase.
-  
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/4a.png)
+
+ -->
+As you can see from the pdf, the users with no Loyalty (activity) on the site does increase considerably from month to month due to email marketing efforts by the team.
   
 ## Outcome: 
 You can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spike up.
