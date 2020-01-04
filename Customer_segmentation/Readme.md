@@ -122,7 +122,8 @@ Cluster/Class Description:
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/8a.PNG)
  --> 
 
-**Customer Data Platform**
+**Customer Data Platform**  
+
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/13a.PNG)
 
  
