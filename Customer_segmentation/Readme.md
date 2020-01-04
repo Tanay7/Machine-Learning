@@ -9,10 +9,10 @@
 
 ### Stakeholders:
 
-1. **CEO**
-2. **CTO**
-3. **Manager**
-4. **Marketing team**
+-  **CEO**
+-  **CTO**
+-  **Manager**
+-  **Marketing team**
 
 ### Project Implementers:
 -  **Me**
