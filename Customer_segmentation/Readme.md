@@ -40,7 +40,7 @@ What are the signals of a
 8. **Deployment** (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing to facilitate capture and retention.)
 
 
-### KPI(Primary Success Metric) selection process:
+### KPI selection process:
 1. **Some Marketing goal** 
 2. **Quantifiable measurements/ data points used to gauge Capernaum's performance relative to that goal**
 
