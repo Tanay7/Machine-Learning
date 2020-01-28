@@ -14,9 +14,6 @@
 -  **Manager**
 -  **Marketing team**
 
-### Project Implementers:
--  **Manager**
--  **Me**
 
 
 ### Business questions: 
