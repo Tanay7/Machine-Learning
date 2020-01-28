@@ -148,7 +148,7 @@ Cluster/Class Description:
 ## Insights: 
 
 
-1. **Value** (refer Value graphs.pdf)
+1. **Value** (refer Value graphs.pdf) (Dummy data)
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/11a.PNG)
 
