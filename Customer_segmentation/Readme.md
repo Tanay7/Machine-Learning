@@ -218,7 +218,7 @@ Extensive automation in Google cloud during the intermediate stages of the proje
 
 
 ### Problem 6:
-**Limitations of Alison MYSQL database version (Ver 5.0) on AWS**\
+**Limitations of MYSQL database version (Ver 5.0) on AWS**\
 eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 
 **Mitigation measure:**\
