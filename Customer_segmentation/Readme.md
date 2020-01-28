@@ -241,7 +241,7 @@ Broke down the complex query into several simple ones and later collated into a 
 ## Impact:  
 
 1. Implemented entirely using Open source tools hence negligible implementation cost.  
-2. Offered Capernaum Ltd (Alison) the ability to leverage data to discover consumers’ intent.  
+2. Offered Capernaum Ltd the ability to leverage data to discover consumers’ intent.  
 3. Personalized/timely marketing campaigns for optimal customer experience now possible.     
 
 
