@@ -29,7 +29,7 @@ What are the signals of a
 ### Stages:
 
 1. **Business Understanding** (Deciding effective KPIs)
-2. **Data Understanding** (Transactional DB/Google Analytics)
+2. **Data Understanding** (Transactional DB/Google Analytics/Exploratory Data Analysis)
 3. **Data Extraction** (SQL/API calls)
 4. **Data Preparation/Feature Engineering** (Google sheets/Advanced Excel)
 5. **Modelling** (Machine learning)
