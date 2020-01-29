@@ -14,7 +14,11 @@
 -  **Manager**
 -  **Marketing team**
 
+### Implementation Team:
 
+-  **CTO**
+-  **Manager**
+-  **Myself**
 
 ### Business questions: 
 
