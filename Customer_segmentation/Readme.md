@@ -36,7 +36,7 @@ What are the signals of a
 2. **Data Understanding** (Transactional DB/Google Analytics/Exploratory Data Analysis)
 3. **Data Extraction** (SQL/API calls)
 4. **Data Preparation/Feature Engineering** (Google sheets/Advanced Excel)
-5. **Modelling** (Machine learning)
+5. **Modelling** (Machine learning: K-Means/Agglomerative hierarchical/Gaussian mixture model)
 6. **Evaluation** (Elbow/Silhouette)
 7. **Data visualization/Presentation** (Insights/funnel metrics)
 8. **Deployment** (Dendrograms/Customer Analytics record)
@@ -180,6 +180,8 @@ eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 **Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**\
 eg 2-3 hour wait period 
 
+**Non inclusion of Demographic data:**\
+eg : Age, gender not included due to data export limitations of Google Analytics
 
 
 ## Impact:  
