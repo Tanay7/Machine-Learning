@@ -43,8 +43,11 @@ What are the signals of a
 
 
 ### KPI selection process:
-1. **Some Marketing goal** 
-2. **Quantifiable measurements/ data points used to gauge Capernaum's performance relative to that goal**
+1. **Determine the key drivers of the business**
+2. **Define qualitative north star objective**
+3. **Define north star metric**
+4. **Decompose the north star metric into qualitative problem areas**
+5. **Iteratively solve/measure progress against that metric**
 
 
 **eg:**  
