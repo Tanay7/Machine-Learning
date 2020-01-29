@@ -28,14 +28,14 @@ What are the signals of a
 
 ### Stages:
 
-1. **Business Understanding** (Brainstorming with senior management /Deciding effective KPIs)
-2. **Data Understanding** (DB tables/ Google Analytics metrics)
-3. **Data Extraction** (SQL for transactional data/Google Analytics API for demographic data)
-4. **Data Preparation/Feature Engineering** (Google sheets/Advanced Excel: Pivots/VLOOKUPS)
+1. **Business Understanding** (Deciding effective KPIs)
+2. **Data Understanding** (Transactional DB/Google Analytics)
+3. **Data Extraction** (SQL/API calls)
+4. **Data Preparation/Feature Engineering** (Google sheets/Advanced Excel)
 5. **Modelling** (Machine learning)
-6. **Evaluation** (Fine Tuning/Tinkering/Elbow/Silhouette/Gap Statistic Methods)
-7. **Data visualization/Presentation** (To uncover insights/study marketing funnel metrics in detail)
-8. **Deployment** (Creating dendrograms/Customer Analytics record to be used by the marketing team for effective Email marketing to facilitate capture and retention.)
+6. **Evaluation** (Elbow/Silhouette)
+7. **Data visualization/Presentation** (Insights/funnel metrics)
+8. **Deployment** (Dendrograms/Customer Analytics record)
 
 
 ### KPI selection process:
@@ -44,21 +44,10 @@ What are the signals of a
 
 
 **eg:**  
-**Goal 1:** Increase Site traffic  
+**Goal:** Increase Site traffic  
 **Indicator**---> Loyalty  
 **Quantifiable measurement/data point:** Count of returns/ Avg time taken to return to player pages
 
-**Goal 2:** Increase Time on site  
-**Indicator**---> Engagement  
-**Quantifiable measurement/data point:** Completion rate/Dwell Time
-
-**Goal 3:** Increase Propensity to spend/Revenue per visitor(RPV)/Average order size  
-**Indicator**---> Value  
-**Quantifiable measurement/data point:** Cart abandonments/Purchases
-
-**Goal 4:** Diversify Product affinity as much as possible  
-**Indicator**---> Interest  
-**Quantifiable measurement/data point:** Course enrols (product preference)
 
 
 ### Approach:
@@ -148,7 +137,7 @@ Cluster/Class Description:
 ## Insights: 
 
 
-1. **Value** (refer Value graphs.pdf) (Dummy data)
+Eg **Value** (refer Value graphs.pdf) (Dummy data)
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/11a.PNG)
 
@@ -157,82 +146,36 @@ Cluster/Class Description:
 As you can see from the pdf, the users with no Value (no propensity to spend) on the site remains the same which is justifiable as Capernaum is dedicated to providing free education and hence targets the users with negligible tendency to spend/purchase.  
 
 
-2. **Engagement** (refer Engagement graphs.pdf)
-
-As you can see from the pdf, the users with no engagement on the site increase from 27% to 95% in the next month (April) due to email marketing efforts by the team.However, the completion rate seems to be falling drastically no matter what.
-  
-3. **Interest** (refer Interest graphs.pdf)
-
-As you can see from the pdf, the users with no Interest (in various courses) on the site increase from 5% to 95% in the next month (April).The users with Narrow focus (No. of different courses enrolled) decreases from 55% to 5%
-
-4.  **Loyalty** (refer Loyalty graphs.pdf)
-<!-- 
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/3a.png)
-
-![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/4a.png)
-
- -->
-As you can see from the pdf, the users with no Loyalty (activity) on the site does increase considerably from month to month due to email marketing efforts by the team.
-  
-## Outcome: 
-You can see that due to the inclusion of new courses and the arduous efforts by our Marketing team the percentage of High purchasers do spike up.
 
 
 ## Challenges encountered during my journey
 	
-### Problem 1:
 **Difficulties in scoping the project during the initial stages.**\
 eg Changes in business expectations, fickleness in the selection of KPI's 
+ 
 
-**Mitigation measure:**\
-Tried to adapt as the problem evolved.\
-Took several iterations of modelling, trial and error to finalise the methodology.  
-
-### Problem 2: 
 **Simply throwing a standard Machine learning algo at a particular business problem is not enough.  Each business scenario is different.**\
 eg: In our business, there is a huge difference between users who made '0' product purchase than the users who made just '1' purchase which are in turn way different than the ones who made '>2-3' purchases. A standard machine learning algo (Clustering) cannot take this into account.
 
-**Mitigation measure:**\
-Tinkering and filtering was carried out with the data at varying levels (Led to changes in scoping of the project at regular intervals)
-
-### Problem 3:
 **Market dynamics: Instability of segments over time**
 eg: Structural change which leads to segment creep and membership migration as the Users move from one segment to another.
 
-**Mitigation measure:**\
-Carried out automation (results fetch from SQL Db,Google sheets) to drastically reduce manual labour and time when Daily/ weekly/monthly/6 monthly segmentations were carried out.
 
-### Problem 4:
 **Frequent Google sheet crash:**\
 eg Cannot paste 10 million cells in one sheet.
 
-**Mitigation measure:** Divided and analysed 1.3 million users at a time (Total: 10 segments )
          
-### Problem 5:
 **Extensive manual work involved:**\
 eg: Copy/pasting millions of rows/slow loading times while performing daily/weekly/monthly segmentation.
 
-**Mitigation measure:**\
-Extensive automation in Google cloud during the intermediate stages of the project.
 
-
-
-### Problem 6:
 **Limitations of MYSQL database version (Ver 5.0) on AWS**\
 eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 
-**Mitigation measure:**\
-Wrote custom analytical functions from scratch.
 
-
-
-
-### Problem 7:
 **Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**\
 eg 2-3 hour wait period 
 
-**Mitigation measure:**\
-Broke down the complex query into several simple ones and later collated into a single sheet for analysis using iterator.
 
 
 ## Impact:  
