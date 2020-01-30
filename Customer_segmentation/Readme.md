@@ -183,8 +183,8 @@ eg. Some analytical functions (LEAD/LAG) could not be used out of the box.
 **Frequent MYSQL database memory table crash/lag which caused slow query execution to fetch results:**\
 eg 2-3 hour wait period 
 
-**Non inclusion of Demographic data:**\
-eg : Age, gender not included due to data export limitations of Google Analytics
+**Incomplete inclusion of Demographic data:**\
+eg : Age, gender were not fully included due to data export limitations of Google Analytics
 
 
 ## Impact:  
