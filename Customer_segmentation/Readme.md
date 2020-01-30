@@ -56,7 +56,7 @@ What are the signals of a
 **Indicator**---> Loyalty  
 **Quantifiable measurement/data point:** Count of returns/ Avg time taken to return to player pages
 
-
+![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/10a.JPG)
 
 ### Approach:
 
@@ -64,18 +64,8 @@ What are the signals of a
 
 1. **Determination of Macro segments** 
 
-We first decided the macro segments as mentioned below
-
-a. **Loyalty**
-
-b. **Engagement**
-
-c. **Interest**
-
-d. **Value**
-
-
-Brainstorming and selecting suitable/effective KPIs (base/derived) under each segment was carried out.
+We first decided the 4 macro segments.
+Then brainstorming and selection of suitable/effective KPIs (base/derived) under each segment was carried out.
 
 Eg: **Loyalty**
 
@@ -87,18 +77,17 @@ Each of the above segments was broken down into several clusters and further int
 
 
 
-
-
 2. **Data Extraction**
-Data Extraction was performed from MySQL hosted on AWS and Google Analytics API
+Carried out from MySQL (hosted on AWS) and Google Analytics API
 
-Total KPIs selected: 15
+Total KPIs selected: 10
 
 Dataset: 10s of GB
 
 
 3. **Modelling**
-I used k-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.  
+K-means clustering to create and derive the optimal number of clusters and understand the underlying customer segments.
+Drawbacks of K-means were mitigated by using AHC and GMM.
 	
 <!-- 	
 **Algorithm Overview**
