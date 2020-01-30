@@ -51,7 +51,7 @@ What are the signals of a
 5. **Iteratively solve/measure progress against that metric**
 
 
-**eg:**  
+**Eg:**  
 **Goal:** Increase Site traffic  
 **Indicator**---> Loyalty  
 **Quantifiable measurement/data point:** Count of returns/ Avg time taken to return to player pages
@@ -96,17 +96,17 @@ Drawbacks of K-means were mitigated by using AHC and GMM.
 
 
 4. **Visualization:**
-Python Clustering Screenshot:
+Clustering in Python (Jupyter notebook):
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/5a.PNG)
 
-Cluster/Class Description:
+Cluster Description:
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/7a.PNG)
 <!-- 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/8a.PNG)
  --> 
 
-**Customer Data Platform**  
+**Sketch of Customer Data Platform**  
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/13a.PNG)
 
