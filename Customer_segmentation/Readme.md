@@ -113,10 +113,12 @@ Clustering in Python (Jupyter notebook):
 
 
 **Algorithm 2: AHC (Agglomerative Hierarchical Clustering)**
+
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/AHC.png)
 
 
 **Algorithm 3: GMM (Gaussian Mixture Models)**
+
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/GMM.PNG)
 
 **Cluster Description:**
