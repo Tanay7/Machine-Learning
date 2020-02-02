@@ -42,6 +42,15 @@ What are the signals of a
 7. **Data visualization/Presentation** (Insights/funnel metrics)
 8. **Deployment** (Dendrograms/Customer Analytics record)
 
+### Tools/Technologies:
+1. **R**
+2. **Python (Jupyter notebook)**
+3. **Advanced Excel/Google sheets/Google App Scripts**
+4. **SQL (MySQL)**
+5. **Machine Learning**
+6. **Statistics**
+7. **Google Analytics (API)**
+8. **AWS**
 
 ### KPI selection process:
 1. **Determine the key drivers of the business**
@@ -50,14 +59,7 @@ What are the signals of a
 4. **Decompose that metric into qualitative problem areas**
 5. **Iteratively solve/measure progress against that metric**
 
-### Tools/Techonologies:
-1. **R**
-2. **Python (Jupyter notebook)**
-3. **Advanced Excel/Google sheets/Google App Scripts**
-4. **SQL (MySQL)**
-5. **Machine Learning**
-6. **Google Analytics (API)**
-7. **AWS**
+
 
 **Eg:**  
 **Goal:** Increase Site traffic  
