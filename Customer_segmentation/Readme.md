@@ -53,7 +53,7 @@ What are the signals of a
 8. **AWS**
 
 ### KPI selection process:
-1. **Determine the key drivers of the business**
+1. **Determining the key drivers of the business**
 2. **Define qualitative objective**
 3. **Define metric**
 4. **Decompose that metric into qualitative problem areas**
