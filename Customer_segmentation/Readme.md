@@ -143,7 +143,7 @@ Clustering in Python (Jupyter notebook):
 ## Insights: 
 
 
-Eg **Value** (refer Value graphs.pdf) (Dummy data)
+Eg **Value** (Dummy data)
 
 ![Image of flowchart](https://github.com/Tanay7/Machine-Learning/blob/master/Customer_segmentation/Images/11a.PNG)
 
