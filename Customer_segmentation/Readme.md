@@ -45,12 +45,13 @@ What are the signals of a
 ### Tools/Technologies:
 1. **R**
 2. **Python (Jupyter notebook)**
-3. **Advanced Excel/Google sheets/Google App Scripts**
-4. **SQL (MySQL)**
-5. **Machine Learning**
-6. **Statistics**
-7. **Google Analytics (API)**
-8. **AWS**
+3. **Tableau**
+4. **Advanced Excel/Google sheets/Google App Scripts**
+5. **SQL (MySQL)**
+6. **Machine Learning**
+7. **Statistics**
+8. **Google Analytics (API)**
+9. **AWS**
 
 ### KPI selection process:
 1. **Determining the key drivers of the business**
