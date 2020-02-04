@@ -1,4 +1,4 @@
-## Advanced Customer Analytics at Capernaum Ltd using Machine learning
+## Advanced Customer Analytics at Capernaum Ltd (www.alison.com) using Machine learning
 ### End to End pipeline
 (Intricacies not included as it is confidential)
 
